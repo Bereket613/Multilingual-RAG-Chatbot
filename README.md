@@ -15,7 +15,7 @@ cd Multilingual-RAG-Chatbot
 pip install -r requirements.txt
 python app.py
 🌐 Live Demo
-👉 Hugging Face Space
+👉 Hugging Face Space[https://huggingface.co/spaces/Beek1One/multilingual-rag-chatbot]
 
 👥 Created by Bethelhem Asres and Bereket Getaw 
 
